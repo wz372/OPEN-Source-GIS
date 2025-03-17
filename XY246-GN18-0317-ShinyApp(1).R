@@ -1,6 +1,5 @@
 # Isonzo River Large Wood Analysis Interactive Map ShinyApp
-# Author:
-# Date: March 2025
+
 
 # Load required libraries
 library(shiny)
